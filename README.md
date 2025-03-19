@@ -1,5 +1,7 @@
 🏦 Credit Card Fraud Detection
+
 📌 Overview
+
 This project detects fraudulent credit card transactions using Random Forests and Decision Trees. A key challenge is class imbalance, as fraud cases make up only 0.17% of the dataset. The project applies techniques to address this issue and improve model performance.
 
 ✨ Features
